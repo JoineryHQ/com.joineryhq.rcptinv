@@ -21,10 +21,12 @@ Before adding the attachment, this extension attempts to verify that an attachme
 named "Invoice.pdf" does not already exist on the email.
 
 
-## License and Support
+## License
 This is an [extension for CiviCRM](https://docs.civicrm.org/sysadmin/en/latest/customize/extensions/),
 licensed under [GPL-3.0](LICENSE.txt).
 
-This extension was developed for a client of Joinery and is made available as-is.
-Code improvements (pull requests) and issue reports are welcome, but there is no
-promise of support.
+## Support
+
+Support for this package is handled under Joinery's ["As-Is Support" policy](https://joineryhq.com/software-support-levels#as-is-support).
+
+Public issue queue for this package: https://github.com/JoineryHQ/com.joineryhq.rcptinv/issues
